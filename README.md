@@ -1,3 +1,6 @@
+# Blog:
+https://minobear.blogspot.com/2020/11/pythonab.html
+
 # 幾A幾B遊戲規則:
   * 首先系統會先產生出四個0~9互不重複的數字
   * 玩家必須猜這四個0~9互不重複的數字，並且系統會告訴你幾A幾B
